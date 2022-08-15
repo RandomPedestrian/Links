@@ -25,6 +25,9 @@ teaching； https://www.zhblog.net/qa/from-ipfs-impossible.html
    https://ipfs.pixura.io/ipfs/Qmeh8RYEvqi9eib83sqDKJAj7emby1K1A4UUWiQdk9LHzn/metadata.json
          https://ipfs.pixura.io/ipfs/QmUyARmq5RUJk5zt7KUeaMLYB8SQbKHp3Gdqy5WSxRtPNa/SeaofRoses.jpg
         
+   https://ipfs.io/ipfs/QmYgyaqMoJMpwV2qcwzyEMxeUyi9BoAwGbDBVHCUoLTdkn?filename=Baby%20Pastel%20Ape%20%23120.json
+         http://ipfs.io/ipfs/QmTapCU68xEr7WRc5baYebcGrwXWgdtEhrUDVLakBdChAh
+        
  
 【Only Picture】
 https://ipfs.io/ipfs/QmRRPWG96cmgTn2qSzjwr2qvfNEuhunv6FNeMFGa9bx6mQ                   PET
