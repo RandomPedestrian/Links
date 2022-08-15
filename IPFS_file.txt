@@ -21,3 +21,7 @@ teaching； https://www.zhblog.net/qa/from-ipfs-impossible.html
          https://ipfs.io/ipfs/QmUxqeqR8S7eXFy9L2ZkFZmvcjn7gGDc6fhh37bGorEcBt?filename=treasure-chest-vector-art.png
          
    
+   https://ipfs.pixura.io/ipfs/Qmeh8RYEvqi9eib83sqDKJAj7emby1K1A4UUWiQdk9LHzn/metadata.json
+         https://ipfs.pixura.io/ipfs/QmUyARmq5RUJk5zt7KUeaMLYB8SQbKHp3Gdqy5WSxRtPNa/SeaofRoses.jpg
+        
+ 
