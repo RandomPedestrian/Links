@@ -1,5 +1,6 @@
 teaching； https://www.zhblog.net/qa/from-ipfs-impossible.html   
    
+【json and picture】
    
    string[] bullUrisIpfs = [
         "https://ipfs.io/ipfs/QmRXyfi3oNZCubDxiVFre3kLZ8XeGt6pQsnAQRZ7akhSNs?filename=gamer_bull.json",
@@ -25,3 +26,6 @@ teaching； https://www.zhblog.net/qa/from-ipfs-impossible.html
          https://ipfs.pixura.io/ipfs/QmUyARmq5RUJk5zt7KUeaMLYB8SQbKHp3Gdqy5WSxRtPNa/SeaofRoses.jpg
         
  
+【Only Picture】
+https://ipfs.io/ipfs/QmRRPWG96cmgTn2qSzjwr2qvfNEuhunv6FNeMFGa9bx6mQ                   PET
+https://gateway.pinata.cloud/ipfs/Qmac8mUyNQ7JrJWAorZvSCjrsMzKB5MJuvPpJfnv85dhjd       PIX ROBOT
